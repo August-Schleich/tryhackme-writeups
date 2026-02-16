@@ -96,7 +96,7 @@ cat output.txt | grep "flag"  # Pipe to grep to find flag
 vim file.txt
 # Press 'i' for insert mode
 # Make changes
-# Press 'ESC' then ':wq' to save and quit
+# Press 'ESC' then ':wq' to save and quit REMEMBER THIS OR ELSE YOU WILL BE TRAPPED FOR ETERNITY IN VIM 
 ```
 
 **Solution (Nano):**
