@@ -5,7 +5,7 @@ Personal documentation and writeups for TryHackMe rooms as I work through certif
 ## 🎯 Current Focus
 
 - **SOC Level 1** - Blue Team certification path
-- **Jr Penetration Tester** - Security certification path
+- **SEC LEVEL 1** - Security certification path
 
 ## 📝 About
 
